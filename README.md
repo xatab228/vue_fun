@@ -1,4 +1,4 @@
-# first
+# Vue test task
 
 ## Project setup
 ```
